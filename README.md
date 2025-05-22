@@ -17,3 +17,4 @@
 
 - [TAESD3: Tiny Autoencoder for Efficient Stable Diffusion](https://github.com/madebyollin/taesd)  
 - [Denoising Diffusion Probabilistic Model](https://keras.io/examples/generative/ddpm/)
+- [Trailer Faces HQ Dataset](https://huggingface.co/datasets/justinpinkney/trailer-faces-hq)
